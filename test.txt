@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is CE05-D489
-
- Directory of C:\Users\umesh mesta\Desktop\GitPProject
-
-05-04-2024  12:13    <DIR>          .
-05-04-2024  12:05    <DIR>          ..
-05-04-2024  12:13                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  416,439,799,808 bytes free
+hi
